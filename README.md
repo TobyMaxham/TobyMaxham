@@ -52,6 +52,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tobymaxham&show_icons=true&locale=en" alt="tobymaxham" /></p>
 
 <p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TobyMaxham&theme=monokai&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TobyMaxham" alt="GitHub Streak" /></a>
 </p>
 
