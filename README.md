@@ -89,7 +89,7 @@ I build software for sports organizations – most of my days are spent on a lar
 ### ☕ Support
 
 <p>
-  <!-- <a href="https://github.com/sponsors/TobyMaxham"><img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" /></a> -->
-  <a href="https://www.buymeacoffee.com/TobyMaxham"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
-  <a href="https://ko-fi.com/tobymaxham"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support me on Ko-fi" /></a>
+    <a href="https://github.com/sponsors/TobyMaxham"><img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" /></a>
+    <a href="https://www.buymeacoffee.com/TobyMaxham"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
+    <a href="https://ko-fi.com/tobymaxham"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" /></a>
 </p>
