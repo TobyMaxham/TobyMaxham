@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://x.com/tobymaxham" target="blank"><img src="https://img.shields.io/twitter/follow/tobymaxham?logo=twitter&style=for-the-badge" alt="tobymaxham" /></a> </p>
 
-- 🔭 I’m currently working on [Sitealarm](https://sitealarm.de) and [Zhylon](https://zhylon.net)
+- 🔭 I’m currently working on [Sitealarm](https://sitealarm.app) and [Zhylon](https://zhylon.net)
 
 - 👯 I’m looking to collaborate on [Zhylon](https://github.com/zhylon/)
 
